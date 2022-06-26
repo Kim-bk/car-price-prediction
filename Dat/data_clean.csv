@@ -1332,7 +1332,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Hyundai SantaFe 2.4L HTRAC - 2019,Lắp ráp trong nước,SUV,38000,Xanh,Đen,5,7,Số tự động,1045, Hà Nội ,cũ,Xăng,2.4,Hyundai,2019
  Mitsubishi Triton 4x2 AT - 2022,Nhập khẩu,Bán tải / Pickup,0,Trắng,Đen,4,5,Số tự động,600, Hà Nội ,mới,Dầu,2.4,Mitsubishi,2022
  BMW X5 xDrive40i xLine - 2021,Nhập khẩu,SUV,0,Xanh,Đen,5,7,Số tự động,4239, Khánh Hòa ,mới,Xăng,3.0,BMW,2021
- Toyota Land Cruiser - 2021,Nhập khẩu,SUV,5000,Đen,Đen,5,5,Số tự động,5900, Hà Nội ,cũ,Xăng,0.0,Toyota,2021
+ Toyota Land Cruiser - 2021,Nhập khẩu,SUV,5000,Đen,Đen,5,0,Số tự động,5900, Hà Nội ,cũ,Xăng,0.0,Toyota,2021
  Mitsubishi Pajero Sport 2.4D 4x2 AT - 2022,Nhập khẩu,SUV,0,Nâu,Đen,5,7,Số tự động,992, Hà Nội ,mới,Dầu,2.4,Mitsubishi,2022
  Kia Morning Luxury - 2020,Lắp ráp trong nước,Hatchback,18000,Xanh,Trắng,5,5,Số tự động,378, TP HCM ,cũ,Xăng,1.25,Kia,2020
  Kia K3 Premium 1.6 AT - 2022,Lắp ráp trong nước,Sedan,0,Xanh,Ghi,4,5,Số tự động,669, Quảng Ninh ,mới,Xăng,1.6,Kia,2022
