@@ -105,7 +105,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Porsche Macan S - 2019,Nhập khẩu,SUV,55000,Trắng,Nâu,5,5,Số tự động,4466, Hà Nội ,cũ,Xăng,3.0,Porsche,2019
  Mercedes Benz E class E200 Edition - 2015,Lắp ráp trong nước,Sedan,70000,Đen,Đen,4,5,Số tự động,940, Hà Nội ,cũ,Xăng,2.0,Mercedes,2015
  Toyota Veloz Cross Top 1.5 CVT - 2022,Nhập khẩu,SUV,0,Trắng,Đen,5,7,Số tự động,688, Bắc Ninh ,mới,Xăng,1.5,Toyota,2022
- Mercedes Benz GLC 200 - 2022,Lắp ráp trong nước,SUV,0,Đỏ,Đen,5,5,Số tự động,1821, Hà Nội ,mới,Xăng,0.0,Mercedes,2022
+ Mercedes Benz GLC 200 - 2022,Lắp ráp trong nước,SUV,0,Đỏ,Đen,5,5,Số tự động,1821, Hà Nội ,mới,Xăng,2.0,Mercedes,2022
  Peugeot 5008 AL 1.6 AT - 2022,Lắp ráp trong nước,SUV,0,Trắng,Đen,5,7,Số tự động,1179, Đồng Nai ,mới,Xăng,1.6,Peugeot,2022
  Peugeot 2008 GT Line 1.2 AT - 2022,Lắp ráp trong nước,Crossover,0,Trắng,Đen,5,5,Số tự động,839, Đồng Nai ,mới,Xăng,1.2,Peugeot,2022
  Peugeot 5008 AL 1.6 AT - 2022,Lắp ráp trong nước,SUV,0,Cam,Đen,5,7,Số tự động,1179, Đồng Nai ,mới,Xăng,1.6,Peugeot,2022
@@ -245,7 +245,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Toyota Corolla altis 1.8HEV - 2022,Nhập khẩu,Sedan,0,Trắng,Đen,4,5,Số tự động,860, Hà Nội ,mới,Hybrid,1.8,Toyota,2022
  Toyota Corolla altis 1.8V - 2022,Nhập khẩu,Sedan,0,Xanh,Đen,4,5,Số tự động,750, Hà Nội ,mới,Xăng,1.8,Toyota,2022
  Mazda CX5 Deluxe 2.0 AT - 2022,Lắp ráp trong nước,SUV,0,Đỏ,Đen,5,5,Số tự động,818, Vĩnh Phúc ,mới,Xăng,2.0,Mazda,2022
- Maserati GranTurismo Convertible - 2020,Nhập khẩu,Convertible/Cabriolet,0,Trắng,Nâu,4,5,Số tự động,11399, TP HCM ,mới,Xăng,0.0,Maserati,2020
+ Maserati GranTurismo Convertible - 2020,Nhập khẩu,Convertible/Cabriolet,0,Trắng,Nâu,4,5,Số tự động,11399, TP HCM ,mới,Xăng,2.0,Maserati,2020
  BMW 7 Series 730Li - 2016,Nhập khẩu,Sedan,63000,Đen,Màu khác,4,5,Số tự động,2550, Hà Nội ,cũ,Xăng,2.0,BMW,2016
  Hyundai SantaFe Cao cấp 2.2L HTRAC - 2021,Lắp ráp trong nước,SUV,10000,Trắng,Nâu,5,7,Số tự động,1499, Hà Nội ,cũ,Dầu,2.2,Hyundai,2021
  Honda CRV E - 2022,Lắp ráp trong nước,SUV,0,Đen,Kem,5,7,Số tự động,998, Đồng Nai ,mới,Xăng,1.5,Honda,2022
@@ -400,12 +400,12 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Ford Ranger Wildtrak 3.2L 4x4 AT - 2014,Nhập khẩu,Bán tải / Pickup,0,Trắng,Ghi,4,5,Số tự động,560, Quảng Ninh ,cũ,Dầu,3.2,Ford,2014
  Hyundai SantaFe Cao cấp 2.2L HTRAC - 2021,Lắp ráp trong nước,SUV,9000,Trắng,Đỏ,5,7,Số tự động,1499, Hà Nội ,cũ,Dầu,2.2,Hyundai,2021
  Honda HRV L - 2020,Nhập khẩu,Crossover,13000,Trắng,Đen,5,5,Số tự động,759, Hà Nội ,cũ,Xăng,1.8,Honda,2020
- Hyundai Porter - 2004,Nhập khẩu,Truck,12000,Xanh,Đen,2,3,Số tay,160, Hải Dương ,cũ,Dầu,0.0,Hyundai,2004
+ Hyundai Porter - 2004,Nhập khẩu,Truck,12000,Xanh,Đen,2,3,Số tay,160, Hải Dương ,cũ,Dầu,2.0,Hyundai,2004
  Porsche Cayenne 3.0 V6 - 2019,Nhập khẩu,SUV,11800,Đen,Đỏ,5,5,Số tự động,5990, Hà Nội ,cũ,Xăng,3.0,Porsche,2019
  Suzuki Super Carry Truck Thùng cánh dơi - 2022,Lắp ráp trong nước,Truck,0,Trắng,Đen,2,2,Số tay,261, TP HCM ,mới,Xăng,1.0,Suzuki,2022
  Toyota Fortuner 2.7V 4x2 AT - 2022,Nhập khẩu,SUV,0,Bạc,Đen,5,7,Số tự động,1187, TP HCM ,mới,Xăng,2.7,Toyota,2022
  Hyundai Creta Đặc biệt 1.5 AT - 2022,Nhập khẩu,Crossover,0,Trắng,Đen,5,5,Số tự động,670, Thanh Hóa ,mới,Xăng,1.5,Hyundai,2022
- Hyundai Mighty EX8 GTL - 2022,Lắp ráp trong nước,Truck,0,Trắng,Nhiều màu,2,3,Số tay,740, TP HCM ,mới,Dầu,0.0,Hyundai,2022
+ Hyundai Mighty EX8 GTL - 2022,Lắp ráp trong nước,Truck,0,Trắng,Nhiều màu,2,3,Số tay,740, TP HCM ,mới,Dầu,2.0,Hyundai,2022
  Honda City RS 1.5 AT - 2022,Lắp ráp trong nước,Sedan,0,Xanh,Đen,4,5,Số tự động,599, Đồng Nai ,mới,Xăng,1.5,Honda,2022
  Ford Everest Titanium 2.0L 4x4 AT - 2022,Nhập khẩu,SUV,0,Nhiều màu,Đen,5,7,Số tự động,1412, TP HCM ,mới,Dầu,2.0,Ford,2022
  Honda CRV G - 2022,Lắp ráp trong nước,SUV,0,Nâu,Đen,5,7,Số tự động,983, Hà Nội ,mới,Xăng,1.5,Honda,2022
@@ -417,7 +417,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Toyota Vios 1.5G - 2019,Lắp ráp trong nước,Sedan,56000,Bạc,Kem,4,5,Số tự động,495, Thái Nguyên ,cũ,Xăng,1.5,Toyota,2019
  LandRover Range Rover Evoque Prestige - 2013,Nhập khẩu,SUV,55000,Xám,Đen,5,5,Số tự động,1080, TP HCM ,cũ,Xăng,2.0,LandRover,2013
  Mercedes Benz GLB 200 AMG - 2022,Nhập khẩu,SUV,0,Trắng,Đen,5,7,Số tự động,1999, Hà Nội ,mới,Xăng,1.3,Mercedes,2022
- Ford Territory - 2022,Nhập khẩu,Crossover,0,Cát,Đen,5,5,Số tự động,700, TP HCM ,mới,Xăng,0.0,Ford,2022
+ Ford Territory - 2022,Nhập khẩu,Crossover,0,Cát,Đen,5,5,Số tự động,700, TP HCM ,mới,Xăng,2.0,Ford,2022
  Toyota Highlander SE 2.7 - 2011,Nhập khẩu,SUV,72000,Xám,Đen,5,7,Số tự động,790, TP HCM ,cũ,Xăng,2.7,Toyota,2011
  Toyota Raize G 1.0 CVT - 2022,Nhập khẩu,SUV,0,Vàng,Đen,5,5,Số tự động,535, TP HCM ,mới,Xăng,1.0,Toyota,2022
  Lexus LS 460L - 2007,Nhập khẩu,Sedan,0,Đen,Kem,4,5,Số tự động,1010, Bình Dương ,cũ,Xăng,4.6,Lexus,2007
@@ -443,7 +443,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Honda Civic G 1.5 AT - 2022,Nhập khẩu,Sedan,0,Trắng,Ghi,4,5,Số tự động,775, TP HCM ,mới,Xăng,1.5,Honda,2022
  Hyundai SantaFe Đặc biệt 2.2L HTRAC - 2021,Lắp ráp trong nước,SUV,0,Đen,Nhiều màu,5,7,Số tự động,1340, Hà Nội ,mới,Dầu,2.2,Hyundai,2021
  VinFast Lux A 2.0 2.0 AT - 2021,Lắp ráp trong nước,Sedan,8000,Đen,Nâu,4,5,Số tự động,775, Hà Nội ,cũ,Xăng,2.0,VinFast,2021
- Mercedes Benz Maybach S580 - 2022,Nhập khẩu,Sedan,0,Đen,Nâu,4,4,Số tự động,16500, Hà Nội ,mới,Xăng,0.0,Mercedes,2022
+ Mercedes Benz Maybach S580 - 2022,Nhập khẩu,Sedan,0,Đen,Nâu,4,4,Số tự động,16500, Hà Nội ,mới,Xăng,2.0,Mercedes,2022
  Hyundai Creta Tiêu chuẩn 1.5 AT - 2022,Nhập khẩu,Crossover,0,Đỏ,Đen,5,5,Số tự động,620, Hà Nội ,mới,Xăng,1.5,Hyundai,2022
  Mercedes Benz GLE Class GLE 450 4Matic - 2020,Nhập khẩu,SUV,10000,Xanh,Kem,5,7,Số tự động,4250, Hà Nội ,cũ,Xăng,3.0,Mercedes,2020
  Honda CRV L - 2022,Lắp ráp trong nước,SUV,0,Bạc,Đen,5,7,Số tự động,1048, Hà Nội ,mới,Xăng,1.5,Honda,2022
@@ -539,7 +539,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Lexus GX 470 - 2008,Nhập khẩu,SUV,65000,Vàng,Kem,5,7,Số tự động,1180, TP HCM ,cũ,Xăng,4.7,Lexus,2008
  Mercedes Benz GLC 300 4Matic - 2018,Lắp ráp trong nước,SUV,25000,Trắng,Nâu,5,5,Số tự động,1799, Hà Nội ,cũ,Xăng,2.0,Mercedes,2018
  Jeep Wrangler Sahara altitude - 2021,Nhập khẩu,SUV,0,Xanh,Đen,5,5,Số tự động,3586, TP HCM ,mới,Xăng,2.0,Jeep,2021
- Jeep Wrangler Sahara - 2021,Nhập khẩu,SUV,12000,Ghi,Đen,5,5,Số tự động,3299, TP HCM ,cũ,Xăng,0.0,Jeep,2021
+ Jeep Wrangler Sahara - 2021,Nhập khẩu,SUV,12000,Ghi,Đen,5,5,Số tự động,3299, TP HCM ,cũ,Xăng,2.0,Jeep,2021
  Jeep Wrangler Willys 2.0 4x4 AT - 2021,Nhập khẩu,SUV,0,Đen,Đen,5,5,Số tự động,3356, TP HCM ,mới,Xăng,2.0,Jeep,2021
  Audi A4 1.8 TFSI - 2014,Nhập khẩu,Sedan,32000,Trắng,Đen,4,5,Số tự động,850, TP HCM ,cũ,Xăng,1.8,Audi,2014
  Jeep Wrangler Rubicon 2.0 4x4 AT - 2021,Nhập khẩu,SUV,0,Đỏ,Đen,5,5,Số tự động,3688, TP HCM ,mới,Xăng,2.0,Jeep,2021
@@ -652,7 +652,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mercedes Benz S class S450L Luxury - 2019,Lắp ráp trong nước,Sedan,0,Đen,Đen,4,5,Số tự động,4220, Hà Nội ,cũ,Xăng,3.0,Mercedes,2019
  Kia Rondo GATH - 2015,Lắp ráp trong nước,SUV,52369,Trắng,Đen,4,7,Số tự động,515, Hà Nội ,cũ,Xăng,2.0,Kia,2015
  Toyota Corolla Cross 1.8G - 2022,Nhập khẩu,SUV,0,Đen,Nâu,5,5,Số tự động,730, Hà Nội ,mới,Xăng,1.8,Toyota,2022
- Kia Frontier - 2017,Lắp ráp trong nước,Truck,81000,Trắng,Nhiều màu,2,3,Số tay,365, Đăk Lăk ,cũ,Dầu,0.0,Kia,2017
+ Kia Frontier - 2017,Lắp ráp trong nước,Truck,81000,Trắng,Nhiều màu,2,3,Số tay,365, Đăk Lăk ,cũ,Dầu,2.0,Kia,2017
  Hyundai Creta Cao cấp 1.5 AT - 2022,Nhập khẩu,Crossover,0,Đen,Đen,5,5,Số tự động,730, TP HCM ,mới,Xăng,1.5,Hyundai,2022
  Hyundai Elantra Sport 1.6 AT - 2019,Lắp ráp trong nước,Sedan,20000,Đỏ,Đen,4,5,Số tự động,620, Hà Nội ,cũ,Xăng,1.6,Hyundai,2019
  Mercedes Benz GL GL 320 CDI 4Matic - 2009,Nhập khẩu,SUV,10000,Đen,Đen,5,7,Số tự động,880, Hà Nội ,cũ,Dầu,3.0,Mercedes,2009
@@ -688,12 +688,12 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mercedes Benz S class S400L - 2017,Lắp ráp trong nước,Sedan,40000,Trắng,Nâu,4,5,Số tự động,2700, Hà Nội ,cũ,Xăng,3.0,Mercedes,2017
  Audi A8 L V6 3.0 TFSI - 2016,Nhập khẩu,Sedan,60000,Đen,Nâu,4,5,Số tự động,2770, Hà Nội ,cũ,Xăng,3.0,Audi,2016
  Lexus ES 250 - 2016,Nhập khẩu,Sedan,50000,Đen,Nâu,4,5,Số tự động,1680, Hà Nội ,cũ,Xăng,2.5,Lexus,2016
- Ford Ranger Wildtrak 2.0L 4x4 A - 2022,Nhập khẩu,Bán tải / Pickup,0,Trắng,Đen,4,5,Số tự động,937, TP HCM ,mới,Dầu,0.0,Ford,2022
- Jeep Wrangler Sahara - 2021,Nhập khẩu,SUV,0,Đen,Đen,5,5,Số tự động,3466, TP HCM ,mới,Xăng,0.0,Jeep,2021
+ Ford Ranger Wildtrak 2.0L 4x4 A - 2022,Nhập khẩu,Bán tải / Pickup,0,Trắng,Đen,4,5,Số tự động,937, TP HCM ,mới,Dầu,2.0,Ford,2022
+ Jeep Wrangler Sahara - 2021,Nhập khẩu,SUV,0,Đen,Đen,5,5,Số tự động,3466, TP HCM ,mới,Xăng,2.0,Jeep,2021
  Ford Ranger Limited 2.0L 4x4 AT - 2022,Nhập khẩu,Bán tải / Pickup,0,Đỏ,Màu khác,4,5,Số tự động,811, Lâm Đồng ,mới,Dầu,2.0,Ford,2022
  Toyota Prado VX 2.7L - 2022,Nhập khẩu,SUV,0,Trắng,Kem,5,7,Số tự động,2599, Hà Nội ,mới,Xăng,2.7,Toyota,2022
  Toyota Raize G 1.0 CVT - 2022,Nhập khẩu,SUV,0,Xanh,Đen,5,5,Số tự động,555, Bắc Giang ,mới,Xăng,1.0,Toyota,2022
- Isuzu NQR 550 - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,830, TP HCM ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu NQR 550 - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,830, TP HCM ,mới,Dầu,2.0,Isuzu,2022
  Ford Explorer Limited 2.3L EcoBoost - 2022,Nhập khẩu,SUV,0,Trắng,Màu khác,5,7,Số tự động,2366, TP HCM ,mới,Xăng,2.3,Ford,2022
  Toyota Venza 2.7 - 2010,Nhập khẩu,Crossover,0,Vàng,Kem,5,5,Số tự động,650, TP HCM ,cũ,Xăng,2.7,Toyota,2010
  LandRover Range Rover Evoque Dynamic - 2014,Nhập khẩu,SUV,60000,Đen,Đen,5,5,Số tự động,1345, Hà Nội ,cũ,Xăng,2.0,LandRover,2014
@@ -705,7 +705,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mercedes Benz E class E200 Exclusive - 2021,Lắp ráp trong nước,Sedan,0,Trắng,Nâu,4,5,Số tự động,2470, TP HCM ,mới,Xăng,2.0,Mercedes,2021
  VinFast Fadil Tiêu chuẩn 1.4 AT - 2022,Lắp ráp trong nước,Hatchback,0,Xám,Đen,5,5,Số tự động,352, Hà Nội ,mới,Xăng,1.4,VinFast,2022
  Mazda 3 1.5L Luxury - 2022,Lắp ráp trong nước,Sedan,0,Đỏ,Đen,4,5,Số tự động,719, An Giang ,mới,Xăng,1.5,Mazda,2022
- MG HS Trophy 2.0 AT - 2022,Nhập khẩu,Crossover,0,Đen,Đỏ,5,5,Số tự động,869, Hải Phòng ,mới,Xăng,0.0,MG,2022
+ MG HS Trophy 2.0 AT - 2022,Nhập khẩu,Crossover,0,Đen,Đỏ,5,5,Số tự động,869, Hải Phòng ,mới,Xăng,2.0,MG,2022
  Honda City RS 1.5 AT - 2022,Lắp ráp trong nước,Sedan,0,Trắng,Đen,4,5,Số tự động,599, Bà Rịa Vũng Tàu ,mới,Xăng,1.5,Honda,2022
  Toyota Corolla altis 1.8G MT - 2015,Lắp ráp trong nước,Sedan,77000,Trắng,Kem,4,5,Số tay,450, Đăk Lăk ,cũ,Xăng,1.8,Toyota,2015
  Toyota Yaris G 1.5 AT - 2022,Nhập khẩu,Hatchback,0,Trắng,Kem,5,5,Số tự động,658, Hà Nội ,mới,Xăng,1.5,Toyota,2022
@@ -763,7 +763,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Isuzu Dmax LS 1.9L 4x2 AT - 2021,Nhập khẩu,Bán tải / Pickup,0,Đen,Xám,4,5,Số tự động,630, Hà Nội ,mới,Dầu,1.9,Isuzu,2021
  VinFast Fadil 1.4 AT - 2022,Lắp ráp trong nước,Hatchback,0,Trắng,Đen,5,5,Số tự động,352, Hà Nội ,mới,Xăng,1.4,VinFast,2022
  Mazda CX5 2.5 AT - 2016,Lắp ráp trong nước,SUV,52000,Trắng,Đen,5,5,Số tự động,695, Bình Dương ,cũ,Xăng,2.5,Mazda,2016
- Daewoo Novus Bồn chở xăng 21K - 2019,Nhập khẩu,Truck,0,Trắng,Kem,2,3,Số tay,1369, TP HCM ,mới,Dầu,0.0,Daewoo,2019
+ Daewoo Novus Bồn chở xăng 21K - 2019,Nhập khẩu,Truck,0,Trắng,Kem,2,3,Số tay,1369, TP HCM ,mới,Dầu,2.0,Daewoo,2019
  Mitsubishi Xpander Cross 1.5 AT - 2022,Nhập khẩu,SUV,0,Trắng,Đen,5,7,Số tự động,615, Hà Nội ,mới,Xăng,1.5,Mitsubishi,2022
  Ford Everest Titanium 2.0L 4x2 AT - 2022,Nhập khẩu,SUV,0,Đỏ,Đen,5,7,Số tự động,1193, TP HCM ,mới,Dầu,2.0,Ford,2022
  Ford Ranger XLS 2.2L 4x2 AT - 2015,Nhập khẩu,Bán tải / Pickup,87000,Ghi,Đen,4,5,Số tự động,520, TP HCM ,cũ,Dầu,2.2,Ford,2015
@@ -796,7 +796,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Lexus RX 350L - 2020,Nhập khẩu,SUV,10000,Trắng,Nâu,5,7,Số tự động,4390, Hà Nội ,cũ,Xăng,3.5,Lexus,2020
  Hyundai SantaFe Cao cấp 2.5L HTRAC - 2021,Lắp ráp trong nước,SUV,0,Trắng,Nâu,5,7,Số tự động,1225, TP HCM ,mới,Xăng,2.5,Hyundai,2021
  Hyundai Tucson 2.0 ATH - 2016,Nhập khẩu,Crossover,730,Đen,Ghi,5,5,Số tự động,689, Hà Nội ,cũ,Xăng,2.0,Hyundai,2016
- Isuzu FVR 900 - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,1410, TP HCM ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu FVR 900 - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,1410, TP HCM ,mới,Dầu,2.0,Isuzu,2022
  Mitsubishi Triton GLX 4x2 MT - 2015,Nhập khẩu,Bán tải / Pickup,80000,Đỏ,Nhiều màu,4,5,Số tay,385, TP HCM ,cũ,Dầu,2.5,Mitsubishi,2015
  Honda City L 1.5 AT - 2022,Lắp ráp trong nước,Sedan,0,Đen,Đen,4,5,Số tự động,549, Hà Nội ,mới,Xăng,1.5,Honda,2022
  Ford Ranger XLS 2.2L 4x2 AT - 2022,Lắp ráp trong nước,Bán tải / Pickup,0,Nâu,Đen,4,5,Số tự động,662, TP HCM ,mới,Dầu,2.2,Ford,2022
@@ -812,11 +812,11 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  VinFast VF e34 AT - 2022,Lắp ráp trong nước,Crossover,0,Xanh,Đen,5,5,Số tự động,690, TP HCM ,mới,Điện,0.1,VinFast,2022
  Mercedes Benz E class E200 - 2019,Lắp ráp trong nước,Sedan,0,Đen,Ghi,4,5,Số tự động,1689, Hà Nội ,cũ,Xăng,2.0,Mercedes,2019
  Hyundai SantaFe 2.4L - 2013,Nhập khẩu,SUV,80000,Bạc,Đen,5,7,Số tự động,685, Hà Nội ,cũ,Xăng,2.4,Hyundai,2013
- Hyundai HD 1000 - 2022,Nhập khẩu,Truck,0,Trắng,Nhiều màu,2,3,Số tay,1960, TP HCM ,mới,Dầu,0.0,Hyundai,2022
+ Hyundai HD 1000 - 2022,Nhập khẩu,Truck,0,Trắng,Nhiều màu,2,3,Số tay,1960, TP HCM ,mới,Dầu,2.0,Hyundai,2022
  Ford Ranger XLS 2.2L 4x2 AT - 2019,Nhập khẩu,Bán tải / Pickup,25500,Ghi,Đen,4,5,Số tự động,670, TP HCM ,cũ,Dầu,2.2,Ford,2019
  Kia K3 Luxury 1.6 AT - 2022,Lắp ráp trong nước,Sedan,0,Trắng,Đen,4,5,Số tự động,639, Hà Nội ,mới,Xăng,1.6,Kia,2022
  Ford Everest Titanium 2.0L 4x4 AT - 2022,Nhập khẩu,SUV,0,Đen,Đen,5,7,Số tự động,1312, Hà Nội ,mới,Dầu,2.0,Ford,2022
- Maserati Quattroporte GTS GranLusso - 2017,Nhập khẩu,Sedan,0,Trắng,Xám,4,4,Số tự động,9969, TP HCM ,mới,Xăng,0.0,Maserati,2017
+ Maserati Quattroporte GTS GranLusso - 2017,Nhập khẩu,Sedan,0,Trắng,Xám,4,4,Số tự động,9969, TP HCM ,mới,Xăng,2.0,Maserati,2017
  VinFast Lux A 2.0 Cao cấp - 2022,Lắp ráp trong nước,Sedan,0,Đồng,Nâu,4,5,Số tự động,1074, Hà Nam ,mới,Xăng,2.0,VinFast,2022
  Toyota Vios 1.5E CVT - 2020,Lắp ráp trong nước,Sedan,14000,Cát,Trắng,4,5,Số tự động,498, TP HCM ,cũ,Xăng,1.5,Toyota,2020
  VinFast VF9 Eco - 2022,Lắp ráp trong nước,SUV,0,Xám,Đen,5,7,Số tự động,1443, Đồng Nai ,mới,Điện,0.2,VinFast,2022
@@ -884,7 +884,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Ford EcoSport Titanium 1.5L AT - 2020,Lắp ráp trong nước,SUV,20000,Đỏ,Đen,5,5,Số tự động,585, Hà Nội ,cũ,Xăng,1.5,Ford,2020
  Mercedes Benz C class C250 Exclusive - 2016,Lắp ráp trong nước,Sedan,60000,Đỏ,Đen,4,5,Số tự động,1030, Hà Nội ,cũ,Xăng,2.0,Mercedes,2016
  Toyota Innova 2.0E - 2012,Lắp ráp trong nước,Crossover,0,Bạc,Kem,5,8,Số tay,325, Hà Nội ,cũ,Xăng,2.0,Toyota,2012
- Mazda 3 1.5 luxury - 2019,Lắp ráp trong nước,Sedan,40000,Trắng,Đen,4,5,Số tự động,615, Hà Nội ,cũ,Xăng,0.0,Mazda,2019
+ Mazda 3 1.5 luxury - 2019,Lắp ráp trong nước,Sedan,40000,Trắng,Đen,4,5,Số tự động,615, Hà Nội ,cũ,Xăng,2.0,Mazda,2019
  Ford Ranger Raptor 2.0L 4x4 AT - 2022,Nhập khẩu,Bán tải / Pickup,0,Ghi,Đen,4,5,Số tự động,1188, Hà Nội ,mới,Dầu,2.0,Ford,2022
  Mazda 3 1.5 AT - 2018,Lắp ráp trong nước,Sedan,30000,Đen,Đen,4,5,Số tự động,545, Hà Nội ,cũ,Xăng,1.5,Mazda,2018
  Mercedes Benz E class E200 - 2014,Lắp ráp trong nước,Sedan,75000,Đen,Kem,4,5,Số tự động,819, Hà Nội ,cũ,Xăng,2.0,Mercedes,2014
@@ -905,7 +905,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Jeep Wrangler Rubicon 2.0 4x4 AT - 2021,Nhập khẩu,SUV,0,Xanh,Đen,5,5,Số tự động,3688, TP HCM ,mới,Xăng,2.0,Jeep,2021
  Ford Everest Titanium 2.0L 4x4 AT - 2022,Nhập khẩu,SUV,0,Đỏ,Đen,5,7,Số tự động,1411, Bắc Giang ,mới,Dầu,2.0,Ford,2022
  Kia Sorento Signature 2.2 AT AWD - 2022,Lắp ráp trong nước,SUV,0,Ghi,Đen,5,7,Số tự động,1299, TP HCM ,mới,Dầu,2.2,Kia,2022
- Mini Cooper JCW 3 Door - 2022,Nhập khẩu,Hatchback,0,Đỏ,Đen,3,4,Số tự động,2539, Hà Nội ,mới,Xăng,0.0,Mini Cooper,2022
+ Mini Cooper JCW 3 Door - 2022,Nhập khẩu,Hatchback,0,Đỏ,Đen,3,4,Số tự động,2539, Hà Nội ,mới,Xăng,2.0,Mini Cooper,2022
  Mercedes Benz S class S400L - 2017,Lắp ráp trong nước,Sedan,5000,Trắng,Nâu,4,5,Số tự động,2690, Hà Nội ,cũ,Xăng,3.0,Mercedes,2017
  BMW X5 xDrive40i M Sport - 2021,Nhập khẩu,SUV,0,Trắng,Vàng,4,7,Số tự động,4579, Hà Nội ,mới,Xăng,3.0,BMW,2021
  Mercedes Benz E class E200 - 2017,Lắp ráp trong nước,Sedan,50000,Xanh,Nâu,4,5,Số tự động,1520, Hà Nội ,cũ,Xăng,2.0,Mercedes,2017
@@ -944,7 +944,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Ford Everest Titanium 2.0L 4x4 AT - 2021,Nhập khẩu,SUV,0,Xanh,Đen,5,7,Số tự động,1412, Ninh Thuận ,mới,Dầu,2.0,Ford,2021
  Mitsubishi Triton GLS 4x4 AT - 2011,Nhập khẩu,Bán tải / Pickup,82000,Xám,Đen,4,5,Số tự động,325, Hà Nội ,cũ,Dầu,2.5,Mitsubishi,2011
  Audi A5 Sportback 2.0 - 2015,Nhập khẩu,Sedan,75000,Đen,Đen,4,5,Số tự động,1059, Hà Nội ,cũ,Xăng,2.0,Audi,2015
- Isuzu NMR 1T9 thùng Bạt 4m5 - 2022,Nhập khẩu,Truck,0,Trắng,Đen,2,3,Số tay,680, TP HCM ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu NMR 1T9 thùng Bạt 4m5 - 2022,Nhập khẩu,Truck,0,Trắng,Đen,2,3,Số tay,680, TP HCM ,mới,Dầu,2.0,Isuzu,2022
  Hyundai SantaFe Tiêu chuẩn 2.5L - 2022,Lắp ráp trong nước,SUV,0,Trắng,Nâu,5,7,Số tự động,1030, Thanh Hóa ,mới,Xăng,2.5,Hyundai,2022
  Toyota Corolla altis 1.8V - 2022,Nhập khẩu,Sedan,0,Xanh,Đen,4,5,Số tự động,765, Hà Nội ,mới,Xăng,1.8,Toyota,2022
  Ford Transit Tiêu chuẩn - 2022,Lắp ráp trong nước,Van/Minivan,0,Bạc,Đen,4,16,Số tay,780, Hà Nội ,mới,Dầu,2.2,Ford,2022
@@ -959,7 +959,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Honda CRV G - 2022,Lắp ráp trong nước,SUV,0,Đen,Đen,5,7,Số tự động,1008, Hà Nội ,mới,Xăng,1.5,Honda,2022
  Toyota Prado VX 2.7L - 2022,Nhập khẩu,SUV,0,Trắng,Kem,5,7,Số tự động,2599, Hà Nội ,mới,Xăng,2.7,Toyota,2022
  Toyota Vios G 1.5 CVT - 2022,Lắp ráp trong nước,Sedan,0,Trắng,Kem,4,5,Số tự động,554, Hà Nội ,mới,Xăng,1.5,Toyota,2022
- Peugeot 2008 GT Line - 2022,Lắp ráp trong nước,SUV,0,Trắng,Màu khác,5,5,Số tự động,829, Thanh Hóa ,mới,Xăng,0.0,Peugeot,2022
+ Peugeot 2008 GT Line - 2022,Lắp ráp trong nước,SUV,0,Trắng,Màu khác,5,5,Số tự động,829, Thanh Hóa ,mới,Xăng,2.0,Peugeot,2022
  Mercedes Benz S class S450L - 2017,Lắp ráp trong nước,Sedan,25000,Trắng,Nâu,4,5,Số tự động,3250, Hà Nội ,cũ,Xăng,3.0,Mercedes,2017
  Chevrolet Colorado LTZ 2.8L 4x4 AT - 2015,Nhập khẩu,Bán tải / Pickup,60000,Đen,Kem,4,5,Số tự động,479, Hà Nội ,cũ,Dầu,2.8,Chevrolet,2015
  Toyota Hiace 2.0 - 1998,Nhập khẩu,Van/Minivan,160000,Bạc,Màu khác,4,6,Số tay,39, Hà Nội ,cũ,Xăng,2.0,Toyota,1998
@@ -1112,7 +1112,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  MG ZS Luxury 1.5 AT 2WD - 2022,Nhập khẩu,Crossover,0,Bạc,Đen,5,5,Số tự động,610, Hà Nội ,mới,Xăng,1.5,MG,2022
  Toyota Land Cruiser GX 4.5 - 2002,Nhập khẩu,SUV,0,Cát,Kem,5,8,Số tay,350, Hà Nội ,cũ,Xăng,4.5,Toyota,2002
  Mercedes Benz E class E300 AMG - 2022,Lắp ráp trong nước,Sedan,0,Đỏ,Đen,4,5,Số tự động,2950, TP HCM ,mới,Xăng,2.0,Mercedes,2022
- Volvo XC90 B6 AWD Inscription - 2022,Nhập khẩu,SUV,0,Trắng,Nâu,5,7,Số tự động,3950, Đà Nẵng ,mới,Xăng,0.0,Volvo,2022
+ Volvo XC90 B6 AWD Inscription - 2022,Nhập khẩu,SUV,0,Trắng,Nâu,5,7,Số tự động,3950, Đà Nẵng ,mới,Xăng,2.0,Volvo,2022
  Volvo XC60 Inscription B6 AWD - 2022,Nhập khẩu,SUV,0,Trắng,Nâu,5,5,Số tự động,2220, Đà Nẵng ,mới,Xăng,2.0,Volvo,2022
  Ford Ranger XLS 2.2L 4x2 AT - 2022,Lắp ráp trong nước,Bán tải / Pickup,0,Bạc,Đen,4,5,Số tự động,662, TP HCM ,mới,Dầu,2.2,Ford,2022
  Ford Ranger Limited 2.0L 4x4 AT - 2022,Lắp ráp trong nước,Bán tải / Pickup,0,Cát,Đen,4,5,Số tự động,800, Hà Nội ,mới,Dầu,2.0,Ford,2022
@@ -1206,13 +1206,13 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Toyota Vios G 1.5 CVT - 2022,Lắp ráp trong nước,Sedan,0,Trắng,Kem,4,5,Số tự động,586, TP HCM ,mới,Xăng,1.5,Toyota,2022
  Honda City 1.5TOP - 2018,Lắp ráp trong nước,Sedan,0,Xanh,Đen,4,5,Số tự động,500, Hà Nội ,cũ,Xăng,1.5,Honda,2018
  Hyundai i10 1.2 MT Tiêu Chuẩn - 2022,Lắp ráp trong nước,Hatchback,0,Trắng,Đen,5,5,Số tay,329, TP HCM ,mới,Xăng,1.25,Hyundai,2022
- Kia K3000S - 2011,Lắp ráp trong nước,Truck,0,Xanh,Ghi,2,3,Số tay,212, Hà Nội ,cũ,Dầu,0.0,Kia,2011
+ Kia K3000S - 2011,Lắp ráp trong nước,Truck,0,Xanh,Ghi,2,3,Số tay,212, Hà Nội ,cũ,Dầu,2.0,Kia,2011
  Suzuki Super Carry Van Blind Van - 2022,Lắp ráp trong nước,Van/Minivan,0,Cam,Màu khác,5,2,Số tay,260, TP HCM ,mới,Xăng,1.0,Suzuki,2022
  Toyota Camry 2.5HV - 2022,Nhập khẩu,Sedan,0,Đen,Đen,4,5,Số tự động,1441, TP HCM ,mới,Hybrid,2.5,Toyota,2022
  MG 5 Luxury 1.5 AT - 2022,Nhập khẩu,Sedan,0,Ghi,Màu khác,4,5,Số tự động,579, Hải Phòng ,mới,Xăng,1.5,MG,2022
  Toyota Vios G 1.5 CVT - 2022,Lắp ráp trong nước,Sedan,0,Cát,Kem,4,5,Số tự động,586, Bà Rịa Vũng Tàu ,mới,Xăng,1.5,Toyota,2022
  Mazda 3 1.5L Deluxe - 2022,Lắp ráp trong nước,Sedan,0,Đỏ,Đen,4,5,Số tự động,635, Lâm Đồng ,mới,Xăng,1.5,Mazda,2022
- Isuzu NPR tải trọng 3.4 Tấn - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,720, Bình Dương ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu NPR tải trọng 3.4 Tấn - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,720, Bình Dương ,mới,Dầu,2.0,Isuzu,2022
  Hyundai i10 1.2 AT - 2022,Lắp ráp trong nước,Sedan,0,Trắng,Đen,4,5,Số tự động,425, TP HCM ,mới,Xăng,1.25,Hyundai,2022
  Mitsubishi Outlander Premium 2.0 CVT - 2022,Lắp ráp trong nước,SUV,0,Đỏ,Đen,5,7,Số tự động,950, TP HCM ,mới,Xăng,2.0,Mitsubishi,2022
  Hyundai Elantra 1.6 MT - 2022,Lắp ráp trong nước,Sedan,0,Đỏ,Ghi,4,5,Số tay,569, Thanh Hóa ,mới,Xăng,1.6,Hyundai,2022
@@ -1325,14 +1325,14 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Toyota Sienna Limited 3.5 AWD - 2016,Nhập khẩu,Van/Minivan,6000,Trắng,Nâu,5,7,Số tự động,2640, Hà Nội ,cũ,Xăng,3.5,Toyota,2016
  Mercedes Benz GLC 200 4Matic - 2022,Lắp ráp trong nước,SUV,0,Trắng,Kem,5,5,Số tự động,2129, Hà Nội ,mới,Xăng,2.0,Mercedes,2022
  Toyota Fortuner 2.7V 4x4 AT - 2020,Nhập khẩu,SUV,22000,Đen,Nâu,5,7,Số tự động,1175, Hà Nội ,cũ,Xăng,2.7,Toyota,2020
- MG 5 - 2022,Nhập khẩu,Sedan,0,Vàng,Đen,4,5,Số tự động,569, Hà Nội ,mới,Xăng,0.0,MG,2022
+ MG 5 - 2022,Nhập khẩu,Sedan,0,Vàng,Đen,4,5,Số tự động,569, Hà Nội ,mới,Xăng,2.0,MG,2022
  Toyota Vios 1.5G - 2019,Lắp ráp trong nước,Sedan,12800,Bạc,Kem,4,5,Số tự động,549, TP HCM ,cũ,Xăng,1.5,Toyota,2019
  Toyota Camry 2.5Q - 2019,Nhập khẩu,Sedan,28000,Nâu,Đen,4,5,Số tự động,1130, Hà Nội ,cũ,Xăng,2.5,Toyota,2019
  BMW 3 Series 320i - 2012,Nhập khẩu,Sedan,90000,Nâu,Kem,4,5,Số tự động,599, Hà Nội ,cũ,Xăng,2.0,BMW,2012
  Hyundai SantaFe 2.4L HTRAC - 2019,Lắp ráp trong nước,SUV,38000,Xanh,Đen,5,7,Số tự động,1045, Hà Nội ,cũ,Xăng,2.4,Hyundai,2019
  Mitsubishi Triton 4x2 AT - 2022,Nhập khẩu,Bán tải / Pickup,0,Trắng,Đen,4,5,Số tự động,600, Hà Nội ,mới,Dầu,2.4,Mitsubishi,2022
  BMW X5 xDrive40i xLine - 2021,Nhập khẩu,SUV,0,Xanh,Đen,5,7,Số tự động,4239, Khánh Hòa ,mới,Xăng,3.0,BMW,2021
- Toyota Land Cruiser - 2021,Nhập khẩu,SUV,5000,Đen,Đen,5,0,Số tự động,5900, Hà Nội ,cũ,Xăng,0.0,Toyota,2021
+ Toyota Land Cruiser - 2021,Nhập khẩu,SUV,5000,Đen,Đen,5,5,Số tự động,5900, Hà Nội ,cũ,Xăng,2.0,Toyota,2021
  Mitsubishi Pajero Sport 2.4D 4x2 AT - 2022,Nhập khẩu,SUV,0,Nâu,Đen,5,7,Số tự động,992, Hà Nội ,mới,Dầu,2.4,Mitsubishi,2022
  Kia Morning Luxury - 2020,Lắp ráp trong nước,Hatchback,18000,Xanh,Trắng,5,5,Số tự động,378, TP HCM ,cũ,Xăng,1.25,Kia,2020
  Kia K3 Premium 1.6 AT - 2022,Lắp ráp trong nước,Sedan,0,Xanh,Ghi,4,5,Số tự động,669, Quảng Ninh ,mới,Xăng,1.6,Kia,2022
@@ -1340,7 +1340,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mazda 3 1.5 AT - 2017,Lắp ráp trong nước,Sedan,85000,Nâu,Ghi,4,5,Số tự động,550, Hà Nội ,cũ,Xăng,1.5,Mazda,2017
  Lexus NX 200t - 2015,Nhập khẩu,SUV,51000,Xám,Nâu,5,5,Số tự động,1680, Hà Nội ,cũ,Xăng,2.0,Lexus,2015
  Toyota Corolla altis 1.8G MT - 2008,Lắp ráp trong nước,Sedan,120000,Đen,Kem,4,5,Số tay,275, Hà Nội ,cũ,Xăng,1.8,Toyota,2008
- Ford Ranger XLS 4x2 MT - 2019,Nhập khẩu,Bán tải / Pickup,0,Trắng,Nhiều màu,4,5,Số tay,580, Điện Biên ,cũ,Dầu,0.0,Ford,2019
+ Ford Ranger XLS 4x2 MT - 2019,Nhập khẩu,Bán tải / Pickup,0,Trắng,Nhiều màu,4,5,Số tay,580, Điện Biên ,cũ,Dầu,2.0,Ford,2019
  Lexus LX 570 - 2008,Nhập khẩu,SUV,0,Đỏ,Kem,5,7,Số tự động,2100, Hà Nội ,cũ,Xăng,5.7,Lexus,2008
  Toyota Prado TXL 2.7L - 2016,Nhập khẩu,SUV,80000,Đen,Đen,5,7,Số tự động,1670, Hà Nội ,cũ,Xăng,2.7,Toyota,2016
  Mercedes Benz E class E200 - 2011,Lắp ráp trong nước,Sedan,100000,Đen,Đen,4,5,Số tự động,549, Hà Nội ,cũ,Xăng,1.8,Mercedes,2011
@@ -1353,7 +1353,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mercedes Benz C class C250 Exclusive - 2015,Lắp ráp trong nước,Sedan,45000,Trắng,Kem,4,5,Số tự động,999, Hà Nội ,cũ,Xăng,2.0,Mercedes,2015
  Mitsubishi Pajero 3.0 4x4 AT - 2016,Nhập khẩu,SUV,46000,Đen,Đen,5,7,Số tự động,1168, Hà Nội ,cũ,Xăng,3.0,Mitsubishi,2016
  Lexus LX 570 Super Sport - 2018,Nhập khẩu,SUV,20000,Đen,Nâu,5,4,Số tự động,9200, Hà Nội ,cũ,Xăng,5.7,Lexus,2018
- Isuzu QKR - 2021,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,545, Hà Nội ,mới,Dầu,0.0,Isuzu,2021
+ Isuzu QKR - 2021,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,545, Hà Nội ,mới,Dầu,2.0,Isuzu,2021
  Mercedes Benz E class E200 Exclusive - 2022,Lắp ráp trong nước,Sedan,0,Đen,Nâu,4,5,Số tự động,2310, TP HCM ,mới,Xăng,2.0,Mercedes,2022
  Toyota Raize G 1.0 CVT - 2022,Nhập khẩu,SUV,0,Đỏ,Đen,5,5,Số tự động,547, Hà Nội ,mới,Xăng,1.0,Toyota,2022
  Nissan Almera EL 1.0 CVT - 2021,Nhập khẩu,Sedan,0,Cam,Đen,4,5,Số tự động,529, Hà Nội ,mới,Xăng,1.0,Nissan,2021
@@ -1381,7 +1381,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mazda 3 S 1.6 AT - 2014,Lắp ráp trong nước,Sedan,51000,Đen,Đen,4,5,Số tự động,425, Hà Nội ,cũ,Xăng,1.6,Mazda,2014
  Peugeot 3008 1.6 AT - 2017,Lắp ráp trong nước,Crossover,42000,Cam,Đen,5,5,Số tự động,880, Hà Nội ,cũ,Xăng,1.6,Peugeot,2017
  Kia Cerato 1.6 AT Luxury - 2019,Lắp ráp trong nước,Sedan,35000,Đỏ,Ghi,4,5,Số tự động,570, Đăk Lăk ,cũ,Xăng,1.6,Kia,2019
- Hyundai Mighty EX8GTL - 2020,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,690, TP HCM ,mới,Dầu,0.0,Hyundai,2020
+ Hyundai Mighty EX8GTL - 2020,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,690, TP HCM ,mới,Dầu,2.0,Hyundai,2020
  Mazda 2 S - 2014,Lắp ráp trong nước,Hatchback,61000,Hồng,Đỏ,5,5,Số tự động,335, TP HCM ,cũ,Xăng,1.5,Mazda,2014
  Toyota Land Cruiser 4.2 MT - 1996,Nhập khẩu,SUV,0,Xám,Đen,5,7,Số tay,400, Kon Tum ,cũ,Dầu,4.2,Toyota,1996
  Hyundai Accent 1.4 ATH - 2019,Lắp ráp trong nước,Sedan,9000,Trắng,Trắng,4,5,Số tự động,529, Cần Thơ ,cũ,Xăng,1.4,Hyundai,2019
@@ -1467,7 +1467,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Chevrolet Vivant CDX AT - 2008,Lắp ráp trong nước,Crossover,140852,Bạc,Kem,5,7,Số tự động,179, Đồng Nai ,cũ,Xăng,2.0,Chevrolet,2008
  Peugeot 5008 GT 1.6 AT - 2022,Lắp ráp trong nước,SUV,0,Đen,Đen,5,7,Số tự động,1303, Lâm Đồng ,mới,Xăng,1.6,Peugeot,2022
  Porsche Cayenne 3.6 V6 - 2007,Nhập khẩu,SUV,90000,Đỏ,Nâu,5,5,Số tự động,730, Hà Nội ,cũ,Xăng,3.6,Porsche,2007
- Mercedes Benz Maybach S580 - 2022,Nhập khẩu,Sedan,0,Đen,Kem,4,4,Số tự động,16790, Hà Nội ,cũ,Xăng,0.0,Mercedes,2022
+ Mercedes Benz Maybach S580 - 2022,Nhập khẩu,Sedan,0,Đen,Kem,4,4,Số tự động,16790, Hà Nội ,cũ,Xăng,2.0,Mercedes,2022
  Kia Cerato 1.6 AT - 2010,Nhập khẩu,Sedan,0,Xám,Đen,4,5,Số tự động,350, Hà Nội ,cũ,Xăng,1.6,Kia,2010
  Maserati Levante 3.0 V6 - 2020,Nhập khẩu,SUV,0,Trắng,Nâu,5,5,Số tự động,5199, TP HCM ,mới,Xăng,3.0,Maserati,2020
  Infiniti QX 80 5.6 AWD - 2016,Nhập khẩu,SUV,0,Xanh,Đen,5,7,Số tự động,4180, TP HCM ,cũ,Xăng,5.6,Infiniti,2016
@@ -1592,7 +1592,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Kia Seltos Premium 1.4 AT - 2021,Lắp ráp trong nước,Crossover,0,Trắng,Trắng,5,5,Số tự động,759, Hà Nội ,mới,Xăng,1.4,Kia,2021
  Toyota Corolla altis 2.0V - 2009,Lắp ráp trong nước,Sedan,0,Bạc,Đen,4,5,Số tự động,383, Hà Nội ,cũ,Xăng,2.0,Toyota,2009
  Mercedes Benz C class C200 Exclusive - 2020,Lắp ráp trong nước,Sedan,0,Trắng,Đen,4,5,Số tự động,1580, Hà Nội ,cũ,Xăng,2.0,Mercedes,2020
- Hyundai Terracan 3.0 - 2004,Nhập khẩu,SUV,140000,Ghi,Màu khác,5,5,Số tay,180, Đà Nẵng ,cũ,Xăng,0.0,Hyundai,2004
+ Hyundai Terracan 3.0 - 2004,Nhập khẩu,SUV,140000,Ghi,Màu khác,5,5,Số tay,180, Đà Nẵng ,cũ,Xăng,2.0,Hyundai,2004
  Ford Focus 1.8 AT - 2011,Lắp ráp trong nước,Hatchback,11800,Vàng,Kem,5,5,Số tự động,275, Hà Nội ,cũ,Xăng,1.8,Ford,2011
  Audi Q7 2.0 AT - 2016,Nhập khẩu,SUV,80000,Đen,Nâu,5,7,Số tự động,2050, Hà Nội ,cũ,Xăng,2.0,Audi,2016
  Mazda 6 2.0L Premium - 2018,Lắp ráp trong nước,Sedan,26000,Đen,Đen,4,5,Số tự động,735, Hà Nội ,cũ,Xăng,2.0,Mazda,2018
@@ -1773,7 +1773,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Toyota Camry LE 2.4 - 2008,Nhập khẩu,Sedan,83000,Đen,Kem,4,5,Số tự động,410, Hà Nội ,cũ,Xăng,2.4,Toyota,2008
  Ford Explorer Limited 2.3L EcoBoost - 2022,Nhập khẩu,SUV,0,Trắng,Đen,5,7,Số tự động,2366, Hà Nội ,mới,Xăng,2.3,Ford,2022
  Subaru Forester 2.0i-S EyeSight - 2021,Nhập khẩu,SUV,0,Trắng,Đen,5,5,Số tự động,1088, Hà Nội ,mới,Xăng,2.0,Subaru,2021
- Isuzu FVM 15 tấn - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,1490, Bình Dương ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu FVM 15 tấn - 2022,Lắp ráp trong nước,Truck,0,Trắng,Xám,2,3,Số tay,1490, Bình Dương ,mới,Dầu,2.0,Isuzu,2022
  Honda Civic E 1.5 AT - 2022,Nhập khẩu,Sedan,0,Trắng,Màu khác,4,5,Số tự động,730, Hà Nội ,mới,Xăng,1.5,Honda,2022
  Mercedes Benz E class E200 - 2011,Lắp ráp trong nước,Sedan,100000,Đen,Đen,4,5,Số tự động,550, Hà Nội ,cũ,Xăng,1.8,Mercedes,2011
  Mercedes Benz C class C200 - 2016,Lắp ráp trong nước,Sedan,64000,Đen,Đen,4,5,Số tự động,945, Hà Nội ,cũ,Xăng,2.0,Mercedes,2016
@@ -1850,7 +1850,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mitsubishi Triton Athlete 4x4 AT - 2022,Nhập khẩu,Bán tải / Pickup,0,Trắng,Nhiều màu,4,5,Số tự động,871, Hà Nội ,mới,Dầu,2.4,Mitsubishi,2022
  Isuzu MU-X Prestige 1.9 4X2 AT - 2021,Nhập khẩu,SUV,0,Trắng,Kem,5,7,Số tự động,900, Hà Nội ,mới,Dầu,1.9,Isuzu,2021
  Mercedes Benz S class S400L - 2014,Lắp ráp trong nước,Sedan,80000,Trắng,Đen,4,5,Số tự động,2150, Hà Nội ,cũ,Xăng,3.0,Mercedes,2014
- Isuzu FVR 7.4 tấn thùngKín 9m6 - 2022,Nhập khẩu,Truck,0,Trắng,Xám,2,3,Số tay,1400, TP HCM ,mới,Dầu,0.0,Isuzu,2022
+ Isuzu FVR 7.4 tấn thùngKín 9m6 - 2022,Nhập khẩu,Truck,0,Trắng,Xám,2,3,Số tay,1400, TP HCM ,mới,Dầu,2.0,Isuzu,2022
  Audi A8 L 3.0 Quattro - 2012,Nhập khẩu,Sedan,60000,Trắng,Đen,4,5,Số tự động,1350, Hà Nội ,cũ,Xăng,3.0,Audi,2012
  BMW 3 Series 320i - 2015,Nhập khẩu,Sedan,70000,Trắng,Kem,4,5,Số tự động,835, Hà Nam ,cũ,Xăng,2.0,BMW,2015
  VinFast VF e34 AT - 2022,Lắp ráp trong nước,Crossover,0,Xanh,Đen,5,5,Số tự động,588, Hà Nội ,mới,Điện,0.1,VinFast,2022
@@ -1886,11 +1886,11 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Mazda 3 1.5L Sport Premium - 2022,Lắp ráp trong nước,Hatchback,0,Xám,Đen,5,5,Số tự động,774, TP HCM ,mới,Xăng,1.5,Mazda,2022
  Toyota Camry 2.0Q - 2022,Nhập khẩu,Sedan,0,Đen,Kem,4,5,Số tự động,1185, Bà Rịa Vũng Tàu ,mới,Xăng,2.0,Toyota,2022
  Hyundai Accent 1.4 AT - 2020,Lắp ráp trong nước,Sedan,46000,Trắng,Ghi,4,5,Số tự động,495, Bình Dương ,cũ,Xăng,1.4,Hyundai,2020
- Hyundai Mighty N250SL - 2022,Nhập khẩu,Truck,0,Xanh,Nhiều màu,2,3,Số tay,475, TP HCM ,mới,Dầu,0.0,Hyundai,2022
+ Hyundai Mighty N250SL - 2022,Nhập khẩu,Truck,0,Xanh,Nhiều màu,2,3,Số tay,475, TP HCM ,mới,Dầu,2.0,Hyundai,2022
  Toyota Fortuner 2.7V 4x2 AT - 2020,Nhập khẩu,SUV,22000,Bạc,Nâu,5,7,Số tự động,990, TP HCM ,cũ,Xăng,2.7,Toyota,2020
  Suzuki Swift 1.4 AT - 2016,Lắp ráp trong nước,Hatchback,47000,Trắng,Xám,5,5,Số tự động,388, Hà Nội ,cũ,Xăng,1.4,Suzuki,2016
  Kia Morning Van 1.0 AT - 2014,Nhập khẩu,Van/Minivan,0,Đỏ,Ghi,5,2,Số tự động,259, Quảng Ninh ,cũ,Xăng,1.0,Kia,2014
- Nissan Kicks - 2022,Nhập khẩu,SUV,0,Cam,Đen,5,5,Số tự động,800, Hà Nội ,mới,Hybrid,0.0,Nissan,2022
+ Nissan Kicks - 2022,Nhập khẩu,SUV,0,Cam,Đen,5,5,Số tự động,800, Hà Nội ,mới,Hybrid,2.0,Nissan,2022
  Mercedes Benz C class C300 AMG - 2016,Lắp ráp trong nước,Sedan,72000,Đen,Kem,4,5,Số tự động,1195, Hà Nội ,cũ,Xăng,2.0,Mercedes,2016
  Ford Everest Titanium 2.0L 4x4 AT - 2019,Nhập khẩu,SUV,50000,Xanh,Đen,5,7,Số tự động,1200, Bình Dương ,cũ,Dầu,2.0,Ford,2019
  Kia Carnival Luxury 2.2D - 2022,Lắp ráp trong nước,Van/Minivan,0,Xanh,Vàng,5,8,Số tự động,1199, Hà Nội ,mới,Dầu,2.2,Kia,2022
@@ -1929,7 +1929,7 @@ Name,Assemble,Type,Km,CarColor,InteriorColor,CarDoor,CarSeat,Gearbox,Price,Locat
  Hyundai Tucson 1.6 AT Turbo HTRAC Đặc biệt - 2022,Lắp ráp trong nước,Crossover,0,Đỏ,Nâu,5,5,Số tự động,1020, Long An ,mới,Xăng,1.6,Hyundai,2022
  Hyundai SantaFe Tiêu chuẩn 2.5L - 2021,Lắp ráp trong nước,SUV,0,Trắng,Nâu,5,7,Số tự động,1030, TP HCM ,mới,Xăng,2.5,Hyundai,2021
  LandRover Range Rover Autobiography LWB 3.0 V6 - 2019,Nhập khẩu,SUV,0,Đen,Nâu,5,4,Số tự động,11560, Hà Nội ,mới,Xăng,3.0,LandRover,2019
- Chrysler Grand Voyager Limitled - 2012,Nhập khẩu,SUV,75600,Bạc,Xám,5,7,Số tự động,625, TP HCM ,cũ,Xăng,0.0,Chrysler,2012
+ Chrysler Grand Voyager Limitled - 2012,Nhập khẩu,SUV,75600,Bạc,Xám,5,7,Số tự động,625, TP HCM ,cũ,Xăng,2.0,Chrysler,2012
  Kia Cerato 2.0 AT Premium - 2020,Lắp ráp trong nước,Sedan,16789,Đen,Nhiều màu,4,5,Số tự động,645, Hà Nội ,cũ,Xăng,2.0,Kia,2020
  Mazda 6 2.0L Premium - 2018,Lắp ráp trong nước,Sedan,32000,Trắng,Đen,4,5,Số tự động,715, Bình Dương ,cũ,Xăng,2.0,Mazda,2018
  Mercedes Benz E class E180 - 2019,Lắp ráp trong nước,Sedan,3000,Đỏ,Đen,4,5,Số tự động,1799, TP HCM ,cũ,Xăng,1.5,Mercedes,2019
